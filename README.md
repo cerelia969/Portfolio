@@ -13,7 +13,7 @@
 </head>
 <h1><span style='font-size:50px;'>My Portfolio</h1>
 <span style='font-size:50px;'>&#128511;
-  <span style='font-size:20px;'>&#128037;
+<span style='font-size:100px;'>&#128037;
 
 <div class="container">
 
@@ -39,7 +39,7 @@
 </div>
 <img src="https://w7.pngwing.com/pngs/954/588/png-transparent-barbie-mariposa-doll-barbie-barbie-illustration-hair-accessory-child-face-thumbnail.png"
 </html>
- <img src="https://png.pngitem.com/pimgs/s/14-149037_download-barbie-png-picture-for-designing-projects-transparent.png"
+<img src="https://png.pngitem.com/pimgs/s/14-149037_download-barbie-png-picture-for-designing-projects-transparent.png"
  
  
 
