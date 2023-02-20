@@ -42,11 +42,6 @@
  <img src="https://png.pngitem.com/pimgs/s/14-149037_download-barbie-png-picture-for-designing-projects-transparent.png"
  
  
-body {
-  font-family: system-ui;
-  background-image: repeating-linear-gradient(pink, #F702EC  10%, #FFCFFD 20%); ;
-  color: black;
-  text-align: rtr;
-}
+
    
  
